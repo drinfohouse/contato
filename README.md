@@ -17,7 +17,7 @@ Orçamento rápido para conserto de computador, notebook ou upgrade. Fale conosc
         </a>
       </td>
       <td align="center" valign="middle" width="50%">
-        <p style="margin-bottom: 8px;"><b>Ou escaneie com o celular:</b></p>
+        <p style="margin-bottom: 8px;"><b>Ou escaneie:</b></p>
         <a href="https://wa.me/5541996596617?text=Olá!%20Gostaria%20de%20assistência%20técnica." target="_blank">
           <img src="qrcode.png" alt="QR Code WhatsApp" width="150">
         </a>
