@@ -1,7 +1,8 @@
 # DrInfoHouse: Atendimento e Suporte de Informática
 Orçamento rápido para conserto de computador, notebook ou upgrade. Fale conosco!
 
-✅️ **1. Contato**
+**1. Contato**
+<br> Preferencialmente por mensagens de texto:
 <br> 💬 **Whats: [41 99659 6617](https://wa.me/5541996596617?text=Olá!%20Gostaria%20de%20assistência%20técnica.)**
 <br> 
 
@@ -27,12 +28,11 @@ Orçamento rápido para conserto de computador, notebook ou upgrade. Fale conosc
 
 <br>
 
-⭐ **2. Avaliações dos Clientes**
+**2. Avaliações dos Clientes:** ⭐️⭐️⭐️⭐️⭐️ 
 <br> Temos altíssimo grau de satisfação, clique abaixo e confira o depoimento de quem contratou nosso atendimento.
-<br><br> [![Google Maps](https://img.shields.io/badge/Google_Maps-5.0_★_★_★_★_★-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/54mxu3MyFdf3iwdK6)
+<br> - **Localização: Rua Paranaguá 1225, Guaíra, Curitiba**
+<br> - Trabalhamos sob Agendamento
+<br> - Atendemos na Oficina ou edelivery
+<br> <br> <img src="gmaps" alt="QR Code WhatsApp" width="260">
+<br> [![Google Maps](https://img.shields.io/badge/Google_Maps-5.0_★_★_★_★_★-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/54mxu3MyFdf3iwdK6)
 <br>
-
-* Trabalhamos com Agendamento
-* Atendemos em nossa oficina ou a domicílio
-* Horários flexíveis e abrangente
-
