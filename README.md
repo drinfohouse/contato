@@ -32,7 +32,29 @@ Orçamento rápido para conserto de computador, notebook ou upgrade. Fale conosc
 <br> Temos altíssimo grau de satisfação, clique abaixo e confira o depoimento de quem contratou nosso atendimento.
 <br> - **Localização: Rua Paranaguá 1225, Guaíra, Curitiba**
 <br> - Trabalhamos sob Agendamento
-<br> - Atendemos na Oficina ou edelivery
-<br> <br> <img src="gmaps" alt="QR Code WhatsApp" width="260">
-<br> [![Google Maps](https://img.shields.io/badge/Google_Maps-5.0_★_★_★_★_★-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/54mxu3MyFdf3iwdK6)
-<br>
+<br> - Atendemos na Oficina ou Delivery
+
+<div align="center">
+  <table align="center" width="100%">
+    <tr>
+      <td align="center" valign="middle">
+        <!-- Imagem do Google Maps -->
+        <a href="https://maps.app.goo.gl/54mxu3MyFdf3iwdK6" target="_blank">
+          <img src="gmaps" alt="DrInfoHouse Google Maps" width="300" style="border-radius: 8px;">
+        </a>
+        <br>
+        <br>
+        <!-- Selo Azul 5 Estrelas -->
+        <a href="https://maps.app.goo.gl/54mxu3MyFdf3iwdK6" target="_blank">
+          <img src="https://img.shields.io/badge/Google_Maps-5.0_★_★_★_★_★-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Selo 5 Estrelas">
+        </a>
+        <br>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Link fora da tabela e centralizado -->
+<p align="center">
+  👉 <a href="https://maps.app.goo.gl/54mxu3MyFdf3iwdK6" target="_blank"><b>Ver avaliações no Google Maps</b></a>
+</p>
