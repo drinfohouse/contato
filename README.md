@@ -63,8 +63,8 @@ Orçamento rápido para conserto de computador, notebook ou upgrade. Fale conosc
 <br> - Recebemos seu equipamento por transporte
 <br> - Trabalhamos com PCs e Notebooks (multimarcas)
 <br> - Oferecemos diversos serviços: limpeza, formatação, upgrade, verificação de falhas e muito mais
-<br> - Aguardamos seu contato!
 
+**Aguardamos seu contato!**
 
 <hr>
 
