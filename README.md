@@ -1,4 +1,4 @@
-# DrInfoHouse: Atendimento e Suporte de Informática
+# DrInfoHouse: Serviços de Informática
 Orçamento rápido para conserto de computador, notebook ou upgrade. Fale conosco!
 
 **1. Contato**
@@ -30,10 +30,7 @@ Orçamento rápido para conserto de computador, notebook ou upgrade. Fale conosc
 
 **2. Avaliações dos Clientes:** ⭐️⭐️⭐️⭐️⭐️ 
 <br> Temos altíssimo grau de satisfação, clique abaixo e confira o depoimento de quem contratou nosso atendimento.
-<br> - **Localização: Rua Paranaguá 1225, Guaíra, Curitiba**
-<br> - Trabalhamos sob Agendamento
-<br> - Atendemos na Oficina ou Delivery
-
+<br>
 <div align="center">
   <table align="center" width="100%">
     <tr>
@@ -53,8 +50,31 @@ Orçamento rápido para conserto de computador, notebook ou upgrade. Fale conosc
     </tr>
   </table>
 </div>
-
 <!-- Link fora da tabela e centralizado -->
 <p align="center">
   👉 <a href="https://maps.app.goo.gl/54mxu3MyFdf3iwdK6" target="_blank"><b>Ver avaliações no Google Maps</b></a>
 </p>
+
+
+<br> 📌️ **Localização: Rua Paranaguá 1225, Guaíra, Curitiba**
+<br> - Trabalhamos por Agendamento!
+<br> - Atendemos na Oficina ou Delivery
+<br> - Atendemos empresas de pequeno e médio porte
+<br> - Recebemos seu equipamento por transporte
+<br> - Trabalhamos com PCs e Notebooks (multimarcas)
+<br> - Oferecemos diversos serviços: limpeza, formatação, upgrade, verificação de falhas e muito mais
+<br> - Aguardamos seu contato!
+
+
+<hr>
+
+<div align="center">
+  <p style="margin-bottom: 10px;">
+    <i><font color="#8b949e">Quer conhecer mais sobre nossa história e serviços institucionais?</font></i>
+  </p>
+  
+  <a href="https://github.com/drinfohouse/empresa" target="_blank">
+    <img src="https://img.shields.io/badge/🏢_Conheça_a_DrInfoHouse-Página_Institucional-21262d?style=for-the-badge&logo=github&logoColor=white" alt="Página Institucional DrInfoHouse">
+  </a>
+  <br><br>
+</div>
